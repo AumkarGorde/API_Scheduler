@@ -7,3 +7,5 @@
 /Schedular/SchdularApi/obj
 /Schedular/TestApi/bin/Debug/net6.0
 /Schedular/TestApi/obj
+/Schedular/SchdularApi/SchdularApi.csproj.user
+/Schedular/TestApi/TestApi.csproj.user
