@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Schedular/.vs
+/Schedular/SchdularApi/bin/Debug/net6.0
+/Schedular/SchdularApi/obj
+/Schedular/TestApi/bin/Debug/net6.0
+/Schedular/TestApi/obj
